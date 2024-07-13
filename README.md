@@ -1,6 +1,23 @@
 
 # nse-cm-price-band-complete-list
 
+## July 2024
+
+| Date | Day | CSV | Markdown |
+| ---- | ---- | ---- | ---- |
+| 2024-07-01 | Monday     | [CSV](2024/nse-cm-price-band-complete-list-2024-07-01.csv) (119 kB) | [MD](2024/nse-cm-price-band-complete-list-2024-07-01.md) (144 kB) |
+| 2024-07-02 | Tuesday    | [CSV](2024/nse-cm-price-band-complete-list-2024-07-02.csv) (118 kB) | [MD](2024/nse-cm-price-band-complete-list-2024-07-02.md) (143 kB) |
+| 2024-07-03 | Wednesday  | [CSV](2024/nse-cm-price-band-complete-list-2024-07-03.csv) (118 kB) | [MD](2024/nse-cm-price-band-complete-list-2024-07-03.md) (143 kB) |
+| 2024-07-04 | Thursday   | [CSV](2024/nse-cm-price-band-complete-list-2024-07-04.csv) (32 kB) | [MD](2024/nse-cm-price-band-complete-list-2024-07-04.md) (39 kB) |
+| 2024-07-05 | Friday     | [CSV](2024/nse-cm-price-band-complete-list-2024-07-05.csv) (120 kB) | [MD](2024/nse-cm-price-band-complete-list-2024-07-05.md) (146 kB) |
+| 2024-07-08 | Monday     | [CSV](2024/nse-cm-price-band-complete-list-2024-07-08.csv) (116 kB) | [MD](2024/nse-cm-price-band-complete-list-2024-07-08.md) (144 kB) |
+| 2024-07-09 | Tuesday    | [CSV](2024/nse-cm-price-band-complete-list-2024-07-09.csv) (119 kB) | [MD](2024/nse-cm-price-band-complete-list-2024-07-09.md) (144 kB) |
+| 2024-07-10 | Wednesday  | [CSV](2024/nse-cm-price-band-complete-list-2024-07-10.csv) (119 kB) | [MD](2024/nse-cm-price-band-complete-list-2024-07-10.md) (144 kB) |
+| 2024-07-11 | Thursday   | [CSV](2024/nse-cm-price-band-complete-list-2024-07-11.csv) (119 kB) | [MD](2024/nse-cm-price-band-complete-list-2024-07-11.md) (144 kB) |
+| 2024-07-12 | Friday     | [CSV](2024/nse-cm-price-band-complete-list-2024-07-12.csv) (121 kB) | [MD](2024/nse-cm-price-band-complete-list-2024-07-12.md) (146 kB) |
+
+
+
 ## June 2024
 
 | Date | Day | CSV | Markdown |
